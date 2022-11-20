@@ -6,3 +6,4 @@
 - 💬 Ask me about Agile, DevOps, Cloud Native, .NET, MongoDB, Azure, Kubernetes, Rancher, NeuVector, GitKraken
 - 📫 How to reach me: [Twitter](https://twitter.com/devprofr)
 - 😄 Pronouns: he/him
+- 📚 Repositories: [Samples](docs/samples.md)
