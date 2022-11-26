@@ -1,22 +1,28 @@
-# Software
+# Open Source software (OSS)
 
 ## Applications
 
 ### CLI
 
-* [Cygnus](https://github.com/kalosyni/cygnus)
-* [MongoDB Atlas](https://github.com/devpro/mongodb-atlas-dotnet-client)
+* [almops](https://github.com/devpro/almops)
+* [cygnus](https://github.com/kalosyni/cygnus)
+* [mdbatlas](https://github.com/devpro/mongodb-atlas-dotnet-client)
 
 ### Web
 
-* [Keep Track](https://github.com/devpro/keep-track)
+* [keeptrack](https://github.com/devpro/keep-track)
 
 ## Libraries
 
-### .NET
+### API clients
 
-* [2hire client](https://github.com/devpro/2hire-dotnet-client)
-* [Emby client](https://github.com/devpro/emby-dotnet-client)
-* [ServiceNow client](https://github.com/rabbids-incubator/servicenow-dotnet-client)
-* [Yanport client](https://github.com/devpro/yanport-dotnet-client)
-* [Withywoods](https://github.com/devpro/withywoods)
+* .NET
+  * [2hire](https://github.com/devpro/2hire-dotnet-client)
+  * [Emby](https://github.com/devpro/emby-dotnet-client)
+  * [ServiceNow](https://github.com/rabbids-incubator/servicenow-dotnet-client)
+  * [Yanport](https://github.com/devpro/yanport-dotnet-client)
+
+### Collections
+
+* .NET
+  * [Withywoods](https://github.com/devpro/withywoods)
