@@ -22,5 +22,6 @@
 * Azure DevOps
   * [Azure Pipelines](https://github.com/devpro/azure-pipeline-training)
 * [.NET](https://github.com/devpro/dotnet-basics-training)
+* [Git](https://github.com/devpro/git-training)
 * [Kubernetes](https://github.com/devpro/kubernetes-training)
 * [Puppet](https://github.com/devpro/puppet-beginner-training)
