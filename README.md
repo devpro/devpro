@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as Domain Solution Architect at SUSE but things will change in April...
+- 🔭 I’m currently working experimenting as Technical Architect focused on CI/CD and DevOps
 - 💬 Ask me about Agile, application modernization, CI/CD, containerization & Cloud Native, Cloud Computing, DevOps, GitOps, software development (.NET), IaC (Ansible, Terraform), NoSQL (MongoDB), testing (Playwright)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/berthomas/), [Twitter](https://twitter.com/devprofr)
 - 😄 Pronouns: he/him
